@@ -50,7 +50,7 @@ This project is a **GitHub OAuth application** that enables users to authenticat
 ## Getting Started
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/github-dashboard.git
+git clone https://github.com/srikanthbanothu26/github-dashboard.git
 cd github-dashboard
 ```
 
