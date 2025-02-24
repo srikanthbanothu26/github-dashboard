@@ -47,7 +47,7 @@ This project is a **GitHub OAuth application** that enables users to authenticat
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/your-username/github-dashboard.git
@@ -93,5 +93,5 @@ Go to `http://localhost:5173` and log in via GitHub.
 
 
 
-## 📝 License
+## License
 This project is open-source under the **MIT License**.
