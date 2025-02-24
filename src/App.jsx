@@ -79,7 +79,7 @@ const App = () => {
       {/* Contributors Section (Right Side) */}
       <aside style={{ width: "250px", background: "#2c3e50", padding: "15px", overflowY: "auto", height: "100vh", boxSizing: "border-box" }}>
         <h2 style={{ borderBottom: "2px solid #ecf0f1", paddingBottom: "10px", textAlign: "center", color: "#ecf0f1" }}>Contributors</h2>
-        {/* Contributors List will be inside PRTrendsChart */}
+        {/* Contributors list will be inside PRTrendsChart */}
       </aside>
     </div>
   );
